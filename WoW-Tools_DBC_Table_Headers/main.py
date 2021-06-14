@@ -23,7 +23,7 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 
 # These are the "end builds" for each expansion.
 builds = ['1.12.1.5875', '2.4.3.8606', '3.3.5.12340',
-          '4.3.4.15595', '5.4.8.18414', '6.2.4.21742',
+          '4.3.4.15595', '5.4.8.18273', '6.2.4.21742',
           '7.3.5.26972', '8.3.7.35662']
 
 # first, we need to get a list of the table names.
