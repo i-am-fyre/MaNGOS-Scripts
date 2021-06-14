@@ -10,3 +10,7 @@ cd ./MaNGOS-Scripts/WoW-Tools_DBC_Table_Headers/
 ```bash
 python -m pip install -r ./requirements.txt
 ```
+```bash
+python ./main.py
+```
+The output should be in .txt files, one for each build version.
